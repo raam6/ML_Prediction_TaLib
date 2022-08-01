@@ -17,11 +17,11 @@ With the current set, the accuracy of the prediction varies between 78-85%, depe
 
 ### Strategy Returns for Google (GOOG) 
 
-![Returns](https://github.com/raam6/ML_Prediction_TaLib/blob/main/strategy_goog.png)
+![Returns](https://github.com/raam6/ML_Prediction_TaLib/blob/main/Resource/strategy_goog.png)
 
 ### Accuracy Report
 
-![Accuracy Report](https://github.com/raam6/ML_Prediction_TaLib/blob/main/accuracy_report_goog.png)
+![Accuracy Report](https://github.com/raam6/ML_Prediction_TaLib/blob/main/Resource/accuracy_report_goog.png)
 
 ## Roadmap
 - Find best set of Technical Indicators to maximize accuracy
